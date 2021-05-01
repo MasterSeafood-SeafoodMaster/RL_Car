@@ -1,5 +1,5 @@
 # RL_Car
-I am a Smart Car
+*I am a Smart Car*
 
 * using Unity_ML Agents
 * using simple NN model and PPO optimizer
